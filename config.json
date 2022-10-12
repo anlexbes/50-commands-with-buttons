@@ -1,0 +1,11 @@
+{
+    "prefix" : "!",
+    "token":"MTAyODMwODg2NTg1NjU4NTc1OQ.GVo-qT.M-tjB6qPesBgmKUvr0slFWLccm7UPxF2fw2Pjc",
+    "db": "mongodb+srv://Just:bots@cluster0.mns2b.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "color": "BLUE",
+      "error": "RED",
+      "success": "GREEN"
+  
+    
+    }
+  
